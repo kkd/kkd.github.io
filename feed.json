@@ -1,18 +1,190 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "tkskkd's timeline",
+	"title": "iki-iki daily log",
 	"icon": "https://micro.blog/tkskkd/avatar.jpg",
-	"home_page_url": "https://tkskkd.micro.blog/",
-	"feed_url": "https://tkskkd.micro.blog/feed.json",
+	"home_page_url": "https://micro.tkskkd.com/",
+	"feed_url": "https://micro.tkskkd.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/27/124818.html",
+				
+				"content_html": "<p>面河山岳博物館のけものがたりに子供と行ったが大変勉強になった。1番の驚きはムササビが猫くらいの大きさだということ。こんなの飛んだらビックリするよね！モモンガとかヤマネかわゆい。アナグマはユーモラスなので一度見てみたいな。🐻</p>\n\n<p><a href=\"https://micro.tkskkd.com/uploads/2020/76dfa75575.jpg\"><img src=\"uploads/2020/76dfa75575.jpg\" width=\"600\" height=\"1066\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/a91b0f9407.jpg\"><img src=\"uploads/2020/a91b0f9407.jpg\" width=\"600\" height=\"1066\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/ca2d67da9b.jpg\"><img src=\"uploads/2020/ca2d67da9b.jpg\" width=\"600\" height=\"1066\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "面河山岳博物館のけものがたりに子供と行ったが大変勉強になった。1番の驚きはムササビが猫くらいの大きさだということ。こんなの飛んだらビックリするよね！モモンガとかヤマネかわゆい。アナグマはユーモラスなので一度見てみたいな。🐻\n\n<a href=\"https://micro.tkskkd.com/uploads/2020/76dfa75575.jpg\"><img src=\"uploads/2020/76dfa75575.jpg\" width=\"600\" height=\"1066\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/a91b0f9407.jpg\"><img src=\"uploads/2020/a91b0f9407.jpg\" width=\"600\" height=\"1066\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/ca2d67da9b.jpg\"><img src=\"uploads/2020/ca2d67da9b.jpg\" width=\"600\" height=\"1066\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-10-27T12:48:18+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/27/124818.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/26/095957.html",
+				
+				"content_html": "<p>人はそれぞれが自然である。人が自然を変えることはできないのと同様に<strong>人が人を変えることはできない</strong>。できるのは自分が変わる＝<strong>外部環境に適応する</strong>ことでしかなく、結果として相手が変わってもそれは自分が変わったことによる<strong>相互作用の結果でしかない</strong>という結論に至った子供との石鎚登山だった。💡</p>\n",
+				"content_text": "人はそれぞれが自然である。人が自然を変えることはできないのと同様に**人が人を変えることはできない**。できるのは自分が変わる＝**外部環境に適応する**ことでしかなく、結果として相手が変わってもそれは自分が変わったことによる**相互作用の結果でしかない**という結論に至った子供との石鎚登山だった。💡\n",
+				"date_published": "2020-10-26T09:59:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/26/095957.html",
+				"tags": ["awareness"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/25/221219.html",
+				
+				"content_html": "<p>今日は子供たちと石鎚山⛰へ。快晴☀️で素晴らしい景色だったが人も多く時間もかかった。天狗岳は待ち時間が長く断念。一人で平日に来て登って行こうかな。土小屋ルートもこれで卒業してレベルを上げよう。</p>\n\n<p><img src=\"uploads/2020/950af2bd66.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
+				"content_text": "今日は子供たちと石鎚山⛰へ。快晴☀️で素晴らしい景色だったが人も多く時間もかかった。天狗岳は待ち時間が長く断念。一人で平日に来て登って行こうかな。土小屋ルートもこれで卒業してレベルを上げよう。\n\n<img src=\"uploads/2020/950af2bd66.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
+				"date_published": "2020-10-25T22:12:19+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/25/221219.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/25/plausible-analysticsossgoogle-analysticscloud.html",
+				
+				"content_html": "<p><a href=\"https://plausible.io/\">Plausible Analystics</a>なるものがあるのを知った。しかもOSSなのかー。確かに久々に触るとGoogle Analysticsは複雑になっている気がしていたのでまずはcloudを試してみようっと。  🧰</p>\n",
+				"content_text": "[Plausible Analystics](https://plausible.io/)なるものがあるのを知った。しかもOSSなのかー。確かに久々に触るとGoogle Analysticsは複雑になっている気がしていたのでまずはcloudを試してみようっと。  🧰\n",
+				"date_published": "2020-10-25T22:02:31+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/25/plausible-analysticsossgoogle-analysticscloud.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/24/215704.html",
+				"title": "職住一致から職住近接へ移行することのメリットとは？",
+				"content_html": "<p>コロナ禍でリモートワーク、自宅での仕事をしてる方が増えていますが職住一致になると色々弊害も出ますよね。そのときに職住近接という選択肢は色々な課題を解決してくれます。職住近接になって4年ほどが経ちますがそのことについて少し話しました。詳しくはこちらの記事もお読みください。<a href=\"https://link.medium.com/ulw5BLWrQab\">link.medium.com/ulw5BLWrQ&hellip;</a></p>\n\n<p><audio controls=\"controls\" src=\"https://micro.tkskkd.com/uploads/2020/a0433795d7.mp3\" preload=\"metadata\" /></p>\n",
+				"content_text": "コロナ禍でリモートワーク、自宅での仕事をしてる方が増えていますが職住一致になると色々弊害も出ますよね。そのときに職住近接という選択肢は色々な課題を解決してくれます。職住近接になって4年ほどが経ちますがそのことについて少し話しました。詳しくはこちらの記事もお読みください。[link.medium.com/ulw5BLWrQ...](https://link.medium.com/ulw5BLWrQab)\n\n<audio controls=\"controls\" src=\"https://micro.tkskkd.com/uploads/2020/a0433795d7.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2020-10-24T21:57:04+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/24/215704.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/23/183528.html",
+				
+				"content_html": "<p>日曜のロングランの時にコケてぶつけた胸がまだ痛い。骨折はしてなかったので不幸中の幸いだが痛いものは痛いし走ったり手を動かしたりの衝撃はしばらく我慢しないといけない。いっそ骨折してたら保険でお見舞金貰えたのにと思わなくもないが痛みの程度が少ないと思えばこれでよかったのかな。🏃🏻‍♂️</p>\n",
+				"content_text": "日曜のロングランの時にコケてぶつけた胸がまだ痛い。骨折はしてなかったので不幸中の幸いだが痛いものは痛いし走ったり手を動かしたりの衝撃はしばらく我慢しないといけない。いっそ骨折してたら保険でお見舞金貰えたのにと思わなくもないが痛みの程度が少ないと思えばこれでよかったのかな。🏃🏻‍♂️\n",
+				"date_published": "2020-10-23T18:35:28+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/23/183528.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/23/esm-httpstoyokeizainetarticles.html",
+				
+				"content_html": "<p>故人のサイトを残すという意味で「<a href=\"http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/\">まさーるのページ</a>」を思い出さざるを得ない。ホストしてくれているオブラブ/ESMには感謝しかないなぁ。 <a href=\"https://toyokeizai.net/articles/-/381708\">toyokeizai.net/articles/&hellip;</a></p>\n",
+				"content_text": "故人のサイトを残すという意味で「[まさーるのページ](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/ )」を思い出さざるを得ない。ホストしてくれているオブラブ/ESMには感謝しかないなぁ。 [toyokeizai.net/articles/...](https://toyokeizai.net/articles/-/381708)\n",
+				"date_published": "2020-10-23T12:07:42+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/23/esm-httpstoyokeizainetarticles.html",
+				"tags": ["awareness"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/23/joyful-httpsamzntoxxoub.html",
+				
+				"content_html": "<p>『Joyful 感性を磨く本』様々な感性によって人生を喜びにあふれた豊かなものにする方法が書かれた本。<strong>パタン・ランゲージ</strong>、<strong>こんまりメソッド</strong>、<strong>天命反転住宅</strong>も紹介。感性に目を向けるとは自分に目を向けること。頭でなく身体全体で生きよう。<a href=\"https://amzn.to/37xXOub\">amzn.to/37xXOub</a> 📚</p>\n",
+				"content_text": "『Joyful 感性を磨く本』様々な感性によって人生を喜びにあふれた豊かなものにする方法が書かれた本。**パタン・ランゲージ**、**こんまりメソッド**、**天命反転住宅**も紹介。感性に目を向けるとは自分に目を向けること。頭でなく身体全体で生きよう。[amzn.to/37xXOub](https://amzn.to/37xXOub) 📚\n",
+				"date_published": "2020-10-23T10:03:25+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/23/joyful-httpsamzntoxxoub.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/23/microblog.html",
+				"title": "Micro.blogってどんなサービスなの？を5分で紹介",
+				"content_html": "<p>最近始めたmicro.blogというサービスを紹介します。TwitterのようなSNS的でありながらもmicropub APIを使って様々なコンテンツを統合したり転送できたりします。そこにはIndieWebというムーブメントがありました。</p>\n\n<p><audio controls=\"controls\" src=\"https://micro.tkskkd.com/uploads/2020/1141b10fdf.mp3\" preload=\"metadata\" /></p>\n",
+				"content_text": "最近始めたmicro.blogというサービスを紹介します。TwitterのようなSNS的でありながらもmicropub APIを使って様々なコンテンツを統合したり転送できたりします。そこにはIndieWebというムーブメントがありました。\n\n<audio controls=\"controls\" src=\"https://micro.tkskkd.com/uploads/2020/1141b10fdf.mp3\" preload=\"metadata\" />\n",
+				"date_published": "2020-10-23T09:39:43+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/23/microblog.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/23/httpsamzntoponof-book.html",
+				
+				"content_html": "<p>『数学する身体』むちゃくちゃ面白かった。前半の数学の起源や歴史、チューリングの逸話についても十分面白かったが、後半の岡潔に始まる数学と身体性のくだりは全体性の話でどストライク。松尾芭蕉、岡潔、情緒。<a href=\"https://amzn.to/31PoNOf\">amzn.to/31PoNOf</a> 📚 #book</p>\n",
+				"content_text": "『数学する身体』むちゃくちゃ面白かった。前半の数学の起源や歴史、チューリングの逸話についても十分面白かったが、後半の岡潔に始まる数学と身体性のくだりは全体性の話でどストライク。松尾芭蕉、岡潔、情緒。[amzn.to/31PoNOf](https://amzn.to/31PoNOf) 📚 #book\n",
+				"date_published": "2020-10-23T07:19:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/23/httpsamzntoponof-book.html",
+				"tags": ["book"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/22/165222.html",
+				
+				"content_html": "<p><strong>荒川修作</strong>氏については<strong>オートポイエーシス</strong>に興味を持っていた頃に手にとったけど当時はピンとこなかった。今は<strong>身体性</strong>との兼ね合いでだいぶ興味が出てきたなぁ。養老天命反転地に行ってみたい。トレランもパルクールもスラックラインもだいぶ天命反転な行為だと思うので勝手に繋がる気がしている💡</p>\n",
+				"content_text": "**荒川修作**氏については**オートポイエーシス**に興味を持っていた頃に手にとったけど当時はピンとこなかった。今は**身体性**との兼ね合いでだいぶ興味が出てきたなぁ。養老天命反転地に行ってみたい。トレランもパルクールもスラックラインもだいぶ天命反転な行為だと思うので勝手に繋がる気がしている💡\n",
+				"date_published": "2020-10-22T16:52:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/22/165222.html",
+				"tags": ["idea"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/22/164843.html",
+				
+				"content_html": "<p>ヘレン・ケラー、この伝記上でしか知らないこの人をもっと知りたくなってきた。視覚・聴覚が閉ざされた中でどのような世界を見ていたのか？触覚や身体感覚を研ぎ澄ませて見えていた世界を知りたい。視覚に頼り切った人びとではわからない世界なのかも知れないけど&hellip; 💡</p>\n",
+				"content_text": "ヘレン・ケラー、この伝記上でしか知らないこの人をもっと知りたくなってきた。視覚・聴覚が閉ざされた中でどのような世界を見ていたのか？触覚や身体感覚を研ぎ澄ませて見えていた世界を知りたい。視覚に頼り切った人びとではわからない世界なのかも知れないけど... 💡\n",
+				"date_published": "2020-10-22T16:48:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/22/164843.html",
+				"tags": ["awareness"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/22/095416.html",
+				
+				"content_html": "<p>今困っていることは多分10年20年前にも困っている人達がいて当時うまくやろうとしたアイデア・取り組みを再発見すると今の人は色々楽できるかもしれない。それらはツールだったりコンセプトだったりパターンだったりするかもしれない。それをずっと世に伝え続ける人が<strong>エバンジェリスト</strong>なのかな。📝</p>\n",
+				"content_text": "今困っていることは多分10年20年前にも困っている人達がいて当時うまくやろうとしたアイデア・取り組みを再発見すると今の人は色々楽できるかもしれない。それらはツールだったりコンセプトだったりパターンだったりするかもしれない。それをずっと世に伝え続ける人が**エバンジェリスト**なのかな。📝\n",
+				"date_published": "2020-10-22T09:54:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/22/095416.html",
+				"tags": ["awareness"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/21/utmf.html",
+				
+				"content_html": "<p>UTMF2021の優先エントリーのお知らせ来たけどどうしようかな。。。今から練習すればまだなんとかなるかもしれないが今ひとつ気持ちが乗らないのはなぜだろう？ もう少し考えよう。🏃‍♂️🗻🤔</p>\n",
+				"content_text": "UTMF2021の優先エントリーのお知らせ来たけどどうしようかな。。。今から練習すればまだなんとかなるかもしれないが今ひとつ気持ちが乗らないのはなぜだろう？ もう少し考えよう。🏃‍♂️🗻🤔\n",
+				"date_published": "2020-10-21T20:07:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/21/utmf.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/21/131637.html",
+				
+				"content_html": "<p>息子が発熱で連絡きたのでお迎えにきた。熱でしんどいみたいだ。父も右胸が痛いがなんとか帰ろう。</p>\n\n<p><img src=\"uploads/2020/8b9156e313.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "息子が発熱で連絡きたのでお迎えにきた。熱でしんどいみたいだ。父も右胸が痛いがなんとか帰ろう。\n\n<img src=\"uploads/2020/8b9156e313.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-10-21T13:16:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/21/131637.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/21/httpsamzntogvdok-book.html",
+				
+				"content_html": "<p>よく言われる「共有地の悲劇」が実際の共有地では起こり得ないということがわかった。顔の見れる規模の共有地が大事ということだ。『歩く、見る、聞く 人びとの自然再生 』<a href=\"https://amzn.to/34gvDOk\">amzn.to/34gvDOk</a> 📖  #book</p>\n",
+				"content_text": "よく言われる「共有地の悲劇」が実際の共有地では起こり得ないということがわかった。顔の見れる規模の共有地が大事ということだ。『歩く、見る、聞く 人びとの自然再生 』[amzn.to/34gvDOk](https://amzn.to/34gvDOk) 📖  #book\n",
+				"date_published": "2020-10-21T08:37:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/21/httpsamzntogvdok-book.html",
+				"tags": ["book"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/20/podcasting.html",
+				
+				"content_html": "<p>まったく誰にも期待もされていないし何が起きるかもわからないのだが、たまたま快適な環境が整ったのでpodcastingというか音声版のつぶやきを始めようかなぁと思っている。何をしゃべろうかで考える時間がもったいないなぁ 😩</p>\n",
+				"content_text": "まったく誰にも期待もされていないし何が起きるかもわからないのだが、たまたま快適な環境が整ったのでpodcastingというか音声版のつぶやきを始めようかなぁと思っている。何をしゃべろうかで考える時間がもったいないなぁ 😩\n",
+				"date_published": "2020-10-20T17:13:07+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/20/podcasting.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/20/importexportux.html",
+				
+				"content_html": "<p>コンテンツがエクスポートできないってことはユーザーの退会方法を面倒くさくするのと似た戦略な気がする。入会だけだなく退会とかimport/exportも<strong>立派なUX</strong>だと思うね。</p>\n",
+				"content_text": "コンテンツがエクスポートできないってことはユーザーの退会方法を面倒くさくするのと似た戦略な気がする。入会だけだなく退会とかimport/exportも**立派なUX**だと思うね。\n",
+				"date_published": "2020-10-20T09:36:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/20/importexportux.html",
+				"tags": ["awareness"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/20/091223.html",
+				
+				"content_html": "<p>頭で考えてる時や文章に書く時には冷静なつもりでも口に出して話し始めるとテンション高まることあるよね。これって思考を口に出すことによるフィードバックなのだろうなぁ。<strong>声にすること大事</strong>だね。</p>\n",
+				"content_text": "頭で考えてる時や文章に書く時には冷静なつもりでも口に出して話し始めるとテンション高まることあるよね。これって思考を口に出すことによるフィードバックなのだろうなぁ。**声にすること大事**だね。\n",
+				"date_published": "2020-10-20T09:12:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/20/091223.html",
+				"tags": ["awareness"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/19/204145.html",
+				
+				"content_html": "<p>今日は夕飯担当だったのでレシピ本のとおりに「いわしのローリエ醤油煮」を作った。ズッキーニに加えてナス入れずぎて煮汁に浸らずに時間かかってしまった。。。次はもっとうまくやろう。🍳\n<img src=\"https://tkskkd.micro.blog/uploads/2020/46d4e99cb4.jpg\" alt=\"6178B4B6-3DC0-4814-ABB3-E27B2069268C.jpg\" /></p>\n",
+				"content_text": "今日は夕飯担当だったのでレシピ本のとおりに「いわしのローリエ醤油煮」を作った。ズッキーニに加えてナス入れずぎて煮汁に浸らずに時間かかってしまった。。。次はもっとうまくやろう。🍳\n![6178B4B6-3DC0-4814-ABB3-E27B2069268C.jpg](https://tkskkd.micro.blog/uploads/2020/46d4e99cb4.jpg)\n",
+				"date_published": "2020-10-19T20:41:45+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/19/204145.html"
+			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/19/160142.html",
 				"title": "「足よりも肋骨」",
 				"content_html": "<p>100kmチャレンジの翌日は予め鍼灸整骨院の予約をとっておいたのだが足はそれほどでもなかったが予想外の肋骨（こけて痛打した）をいためてしまいリブバンドのお世話になってしまった。序盤でコケたのだが色々な所が痛いから最後までいっちゃった😩</p>\n",
 				"content_text": "100kmチャレンジの翌日は予め鍼灸整骨院の予約をとっておいたのだが足はそれほどでもなかったが予想外の肋骨（こけて痛打した）をいためてしまいリブバンドのお世話になってしまった。序盤でコケたのだが色々な所が痛いから最後までいっちゃった😩 \n",
 				"date_published": "2020-10-19T16:02:24+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/19/160142.html"
+				"url": "https://micro.tkskkd.com/2020/10/19/160142.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/19/i-run-km.html",
@@ -20,7 +192,7 @@
 				"content_html": "<p>I run 76km from Ozu to Kumakogen in Ehime pref. It took a lot of time, so I gave up running to Matsuyama😭\nIt was exiciting journey for me. 🏃‍♂️</p>\n\n<p><a href=\"https://strava.app.link/n2ixkEIfHab\">strava.app.link/n2ixkEIfH&hellip;</a></p>\n\n<p><img src=\"uploads/2020/2f79292900.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "I run 76km from Ozu to Kumakogen in Ehime pref. It took a lot of time, so I gave up running to Matsuyama😭\nIt was exiciting journey for me. 🏃‍♂️\n\n[strava.app.link/n2ixkEIfH...](https://strava.app.link/n2ixkEIfHab)\n\n<img src=\"uploads/2020/2f79292900.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-10-19T09:00:00+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/19/i-run-km.html"
+				"url": "https://micro.tkskkd.com/2020/10/19/i-run-km.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/19/km.html",
@@ -28,7 +200,7 @@
 				"content_html": "<p>一人100kmマラソンは結局タイムアップ。荷物多すぎてロードで速度あげられず後半の峠越えで時間かかってしまった。でも最後になんとか見た岩屋寺の巨大な岩や大木に感動！久しぶりにボロボロになったが全身全感覚を使って取り組むチャレンジはやはりいいな。コロナで出不精になった自分に喝！</p>\n\n<p><img src=\"uploads/2020/a4d2f853f2.jpg\" width=\"600\" height=\"337\" alt=\"\" /></p>\n",
 				"content_text": "一人100kmマラソンは結局タイムアップ。荷物多すぎてロードで速度あげられず後半の峠越えで時間かかってしまった。でも最後になんとか見た岩屋寺の巨大な岩や大木に感動！久しぶりにボロボロになったが全身全感覚を使って取り組むチャレンジはやはりいいな。コロナで出不精になった自分に喝！\n\n<img src=\"uploads/2020/a4d2f853f2.jpg\" width=\"600\" height=\"337\" alt=\"\" />\n",
 				"date_published": "2020-10-19T06:38:08+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/19/km.html"
+				"url": "https://micro.tkskkd.com/2020/10/19/km.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/17/km.html",
@@ -36,7 +208,7 @@
 				"content_html": "<p>昭和な部屋だな〜 #一人100kmマラソン #四国のみち</p>\n\n<p><img src=\"uploads/2020/c2b7f52c8c.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "昭和な部屋だな〜 #一人100kmマラソン #四国のみち\n\n<img src=\"uploads/2020/c2b7f52c8c.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2020-10-17T21:53:14+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/17/km.html"
+				"url": "https://micro.tkskkd.com/2020/10/17/km.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/17/jr.html",
@@ -44,7 +216,7 @@
 				"content_html": "<p>大洲まで旅に出ます。JR乗るの久しぶりだなー。</p>\n\n<p><img src=\"uploads/2020/3d31d28709.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
 				"content_text": "大洲まで旅に出ます。JR乗るの久しぶりだなー。\n\n<img src=\"uploads/2020/3d31d28709.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-10-17T20:46:00+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/17/jr.html"
+				"url": "https://micro.tkskkd.com/2020/10/17/jr.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/17/125627.html",
@@ -52,7 +224,7 @@
 				"content_html": "<p>自分の口癖を奥さんに聞いたら<strong>仕方ない</strong>とか<strong>しようがない</strong>をよく口にしているそうだ。文脈にもよるが<strong>そうなるのは自然の流れだから仕方ない</strong>とか、<strong>大きな流れには逆らえないからしようがない</strong>という意味合いで口にしているっぽい。そういう意見は求めてないと言われることもあるがつい口にしてしまう。</p>\n",
 				"content_text": "自分の口癖を奥さんに聞いたら**仕方ない**とか**しようがない**をよく口にしているそうだ。文脈にもよるが**そうなるのは自然の流れだから仕方ない**とか、**大きな流れには逆らえないからしようがない**という意味合いで口にしているっぽい。そういう意見は求めてないと言われることもあるがつい口にしてしまう。\n",
 				"date_published": "2020-10-17T12:56:27+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/17/125627.html"
+				"url": "https://micro.tkskkd.com/2020/10/17/125627.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/17/084755.html",
@@ -60,7 +232,7 @@
 				"content_html": "\n\n<h1 id=\"何もしない-という行動\">「何もしない」という行動</h1>\n\n<p>辛い時にひたすら「何かしなくちゃ」と行動起こすだけでなく、ただ「<strong>何もしないでじっと待つ</strong>」という選択肢があるのも忘れてはいけない。</p>\n\n<p>何かするということはエネルギーを消費する。そのエネルギーに見合うだけのリターンがないとただエネルギーを消耗してしまう。嵐が過ぎ去る、あるいは冬が過ぎて春の訪れを待つように、行動で何でも解決できるという傲慢さを捨ててじっとその時が来るのを待つべき時もあるのだと考えるようになった。</p>\n\n<p><strong>「どんな状況なのか」を見極める</strong>ことが「何かをする」よりも大事だということだ。</p>\n",
 				"content_text": "# 「何もしない」という行動\n\n辛い時にひたすら「何かしなくちゃ」と行動起こすだけでなく、ただ「**何もしないでじっと待つ**」という選択肢があるのも忘れてはいけない。\n\n何かするということはエネルギーを消費する。そのエネルギーに見合うだけのリターンがないとただエネルギーを消耗してしまう。嵐が過ぎ去る、あるいは冬が過ぎて春の訪れを待つように、行動で何でも解決できるという傲慢さを捨ててじっとその時が来るのを待つべき時もあるのだと考えるようになった。\n\n**「どんな状況なのか」を見極める**ことが「何かをする」よりも大事だということだ。\n",
 				"date_published": "2020-10-17T08:47:55+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/17/084755.html"
+				"url": "https://micro.tkskkd.com/2020/10/17/084755.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/16/201605.html",
@@ -68,7 +240,7 @@
 				"content_html": "<p>今の結果を引き起こしてるのは自分だと気づく。<strong>因果応報</strong>、<strong>過去の積み重ねが今の結果を生み出してる</strong>。そこにがっぷり四つで向き合わないといけないなぁ。。。</p>\n",
 				"content_text": "今の結果を引き起こしてるのは自分だと気づく。**因果応報**、**過去の積み重ねが今の結果を生み出してる**。そこにがっぷり四つで向き合わないといけないなぁ。。。\n",
 				"date_published": "2020-10-16T20:16:05+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/16/201605.html"
+				"url": "https://micro.tkskkd.com/2020/10/16/201605.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/16/indieweb-httpsindieweborg.html",
@@ -76,7 +248,7 @@
 				"content_html": "<p>これからはIndieWebを目指そう。誰となく。。。 <a href=\"https://indieweb.org/\">indieweb.org</a></p>\n",
 				"content_text": "これからはIndieWebを目指そう。誰となく。。。 [indieweb.org](https://indieweb.org/)\n",
 				"date_published": "2020-10-16T09:50:09+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/16/indieweb-httpsindieweborg.html"
+				"url": "https://micro.tkskkd.com/2020/10/16/indieweb-httpsindieweborg.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/16/miromuralmiromural.html",
@@ -84,7 +256,7 @@
 				"content_html": "<p>そろそろmiroとmuralのどちらかに決めたいと思っている。最近はmiroしか使ってないのでmuralもちょっとみたら色々変わっている気がしてそっちも見てからとかやってると決まらない。意思決定はできるだけ遅らせる原則に従ってるのでいいのだけど。。。</p>\n",
 				"content_text": "そろそろmiroとmuralのどちらかに決めたいと思っている。最近はmiroしか使ってないのでmuralもちょっとみたら色々変わっている気がしてそっちも見てからとかやってると決まらない。意思決定はできるだけ遅らせる原則に従ってるのでいいのだけど。。。\n",
 				"date_published": "2020-10-16T09:18:27+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/16/miromuralmiromural.html"
+				"url": "https://micro.tkskkd.com/2020/10/16/miromuralmiromural.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/15/181706.html",
@@ -92,7 +264,7 @@
 				"content_html": "<p>久しぶりの日尾八幡神社の裏山をダッシュで登ること3周。疲れた。。。</p>\n\n<p><img src=\"uploads/2020/8823a0ed94.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
 				"content_text": "久しぶりの日尾八幡神社の裏山をダッシュで登ること3周。疲れた。。。\n\n<img src=\"uploads/2020/8823a0ed94.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2020-10-15T18:17:06+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/15/181706.html"
+				"url": "https://micro.tkskkd.com/2020/10/15/181706.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/15/181136.html",
@@ -100,7 +272,7 @@
 				"content_html": "<p>何かを伝えようとして言葉を使えば使うほど伝わらなくなる現象に名前をつけたい。だからこそメタファが有用なのだろう。</p>\n",
 				"content_text": "何かを伝えようとして言葉を使えば使うほど伝わらなくなる現象に名前をつけたい。だからこそメタファが有用なのだろう。\n",
 				"date_published": "2020-10-15T18:11:36+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/15/181136.html"
+				"url": "https://micro.tkskkd.com/2020/10/15/181136.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/15/180920.html",
@@ -108,7 +280,7 @@
 				"content_html": "<p>誰かが自分のことを否定してると感じたら「それは気のせい」と解釈し直すほうがお互いに幸せだろうな。そう感じる時は疲れているだけかもしれない。体調と心の動きは連動するから。</p>\n",
 				"content_text": "誰かが自分のことを否定してると感じたら「それは気のせい」と解釈し直すほうがお互いに幸せだろうな。そう感じる時は疲れているだけかもしれない。体調と心の動きは連動するから。\n",
 				"date_published": "2020-10-15T18:09:20+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/15/180920.html"
+				"url": "https://micro.tkskkd.com/2020/10/15/180920.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/15/092014.html",
@@ -116,7 +288,7 @@
 				"content_html": "<p>目的実現のための手段に囚われているのか、そもそも手段が目的なのかを自覚しておけば、手段を変えるべきか変えなくてもよいかを判断できる。手段が目的ならそれはそれでいいんじゃない？</p>\n",
 				"content_text": "目的実現のための手段に囚われているのか、そもそも手段が目的なのかを自覚しておけば、手段を変えるべきか変えなくてもよいかを判断できる。手段が目的ならそれはそれでいいんじゃない？\n",
 				"date_published": "2020-10-15T09:20:14+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/15/092014.html"
+				"url": "https://micro.tkskkd.com/2020/10/15/092014.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/13/230751.html",
@@ -124,7 +296,7 @@
 				"content_html": "<p>ある本を読んでいたら、<strong>荒川修作</strong>、<strong>天命反転</strong> が出てくる発見があり、また色々つながった感がある。10年ぶりに荒川修作マイブームがきそうな予感がする。</p>\n",
 				"content_text": "ある本を読んでいたら、**荒川修作**、**天命反転** が出てくる発見があり、また色々つながった感がある。10年ぶりに荒川修作マイブームがきそうな予感がする。\n",
 				"date_published": "2020-10-13T23:07:51+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/13/230751.html"
+				"url": "https://micro.tkskkd.com/2020/10/13/230751.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/13/100212.html",
@@ -132,7 +304,7 @@
 				"content_html": "<p>なぜmicro.blogを見つけたかと言うと、iA writerのAccount設定みてたらMediumとかWordpressとかGhost(今個人ブログをGhostに以降中）と並んでmicro.blogとかmicropub とかが書いてあって「え、なにこれ？」って調べたのがきっかけなんだよね。完全に目的から逸脱した行為。でもそれでmicro.blog というサービスやコンセプトが知ることができたからセレンディップな発見だと思ってる。</p>\n",
 				"content_text": "なぜmicro.blogを見つけたかと言うと、iA writerのAccount設定みてたらMediumとかWordpressとかGhost(今個人ブログをGhostに以降中）と並んでmicro.blogとかmicropub とかが書いてあって「え、なにこれ？」って調べたのがきっかけなんだよね。完全に目的から逸脱した行為。でもそれでmicro.blog というサービスやコンセプトが知ることができたからセレンディップな発見だと思ってる。\n",
 				"date_published": "2020-10-13T10:02:12+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/13/100212.html"
+				"url": "https://micro.tkskkd.com/2020/10/13/100212.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/13/microblog.html",
@@ -140,7 +312,7 @@
 				"content_html": "<p>Micro.blogのコンセプトには共感できるんだけどマイノリティなんだろうなぁ。。。でもやるんだよ（試すんだよ）案件。</p>\n",
 				"content_text": "Micro.blogのコンセプトには共感できるんだけどマイノリティなんだろうなぁ。。。でもやるんだよ（試すんだよ）案件。\n",
 				"date_published": "2020-10-13T09:59:06+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/13/microblog.html"
+				"url": "https://micro.tkskkd.com/2020/10/13/microblog.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/13/microblogtwittermicrobloghttpsmicroblogtkskkd.html",
@@ -148,7 +320,7 @@
 				"content_html": "<p>なんとなくみつけたmicro.blogにアカウントを作って、色々なサイトのフィードを流すようにしてみた。ここからTwitterに流すようにしたので、しばらくmicro.blogへのポストをやってみる。\n<a href=\"https://micro.blog/tkskkd\">micro.blog/tkskkd</a></p>\n",
 				"content_text": "なんとなくみつけたmicro.blogにアカウントを作って、色々なサイトのフィードを流すようにしてみた。ここからTwitterに流すようにしたので、しばらくmicro.blogへのポストをやってみる。\n[micro.blog/tkskkd](https://micro.blog/tkskkd)\n",
 				"date_published": "2020-10-13T09:54:27+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/13/microblogtwittermicrobloghttpsmicroblogtkskkd.html"
+				"url": "https://micro.tkskkd.com/2020/10/13/microblogtwittermicrobloghttpsmicroblogtkskkd.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/12/twitterikiiki.html",
@@ -156,7 +328,7 @@
 				"content_html": "<p>とりあえずTwitterの代わりにここにつぶやいて見るテスト。新しいサービスを調べてるときはiki-ikiしている。</p>\n",
 				"content_text": "とりあえずTwitterの代わりにここにつぶやいて見るテスト。新しいサービスを調べてるときはiki-ikiしている。\n",
 				"date_published": "2020-10-12T18:40:31+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/12/twitterikiiki.html"
+				"url": "https://micro.tkskkd.com/2020/10/12/twitterikiiki.html"
 			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/12/this-is-my.html",
@@ -164,7 +336,7 @@
 				"content_html": "<p>This is <strong>my first</strong> micro.blog post.</p>\n",
 				"content_text": "This is **my first** micro.blog post.\n",
 				"date_published": "2020-10-12T17:55:51+09:00",
-				"url": "https://tkskkd.micro.blog/2020/10/12/this-is-my.html"
+				"url": "https://micro.tkskkd.com/2020/10/12/this-is-my.html"
 			}
 	]
 }
