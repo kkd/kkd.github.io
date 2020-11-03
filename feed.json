@@ -1,11 +1,170 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "iki-iki daily log",
+	"title": "iki-iki log by tkskkd",
 	"icon": "https://micro.blog/tkskkd/avatar.jpg",
 	"home_page_url": "https://micro.tkskkd.com/",
 	"feed_url": "https://micro.tkskkd.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://tkskkd.micro.blog/2020/11/03/ipad-proipad-gardening.html",
+				
+				"content_html": "<p>iPad Proの「計測」アプリでレイズベット（畝）の採寸してみたがこれは正しいのだろうか？手元のメジャーと比較したら大体合ってる気がするのだけど、ちょっと離れたり奥行きがあったりしても正確なのかはよくわからないなぁ。。。#ipad #gardening 🌱📱</p>\n\n<p><img src=\"uploads/2020/0c4ac9743c.jpg\" width=\"600\" height=\"449\" alt=\"\"/></p>\n",
+				"content_text": "iPad Proの「計測」アプリでレイズベット（畝）の採寸してみたがこれは正しいのだろうか？手元のメジャーと比較したら大体合ってる気がするのだけど、ちょっと離れたり奥行きがあったりしても正確なのかはよくわからないなぁ。。。#ipad #gardening 🌱📱\n\n<img src=\"uploads/2020/0c4ac9743c.jpg\" width=\"600\" height=\"449\" alt=\"\"/>\n",
+				"date_published": "2020-11-03T11:59:46+09:00",
+				"url": "https://micro.tkskkd.com/2020/11/03/ipad-proipad-gardening.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/11/03/101123.html",
+				
+				"content_html": "<p>最短距離を走るのではなく、寄り道ばかりしている人生だった。。。。</p>\n",
+				"content_text": "最短距離を走るのではなく、寄り道ばかりしている人生だった。。。。\n",
+				"date_published": "2020-11-03T10:11:23+09:00",
+				"url": "https://micro.tkskkd.com/2020/11/03/101123.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/11/03/indieweb-sns-indieweb.html",
+				
+				"content_html": "<p><a href=\"https://www.tkskkd.com/2020/indieweb%E3%82%92%E3%81%AF%E3%81%97%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F-1\">IndieWebをはじめてみた</a></p>\n\n<blockquote>\n<p>ものすごくプラグマティックで、アジャイルだ。新しいコンセプトを世に生み出そうとしている真っ只中な感じがするのがなんだかワクワクする。</p>\n</blockquote>\n\n<p>独立した個がつながり世界を変えていくSNSで生まれた世界観の次バージョンなきがする。わからんけど。\n#IndieWeb</p>\n",
+				"content_text": " [IndieWebをはじめてみた](https://www.tkskkd.com/2020/indieweb%E3%82%92%E3%81%AF%E3%81%97%E3%82%81%E3%81%A6%E3%81%BF%E3%81%9F-1)\n\n> ものすごくプラグマティックで、アジャイルだ。新しいコンセプトを世に生み出そうとしている真っ只中な感じがするのがなんだかワクワクする。\n\n独立した個がつながり世界を変えていくSNSで生まれた世界観の次バージョンなきがする。わからんけど。\n#IndieWeb\n",
+				"date_published": "2020-11-03T09:38:24+09:00",
+				"url": "https://micro.tkskkd.com/2020/11/03/indieweb-sns-indieweb.html",
+				"tags": ["idea"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/11/02/slow-web-movement.html",
+				"title": "Slow Web movement, Slow Web principle, polite Software",
+				"content_html": "<p><a href=\"https://www.polite.one/\">Polite Toolbox - Home</a></p>\n\n<blockquote>\n<p>The Slow Web movement embodies the idea that we can now use Technology to develop healthy habits and reset our digital life for the better.\nThink of it as the equivalent of &ldquo;Organic&rdquo; for Technology..</p>\n</blockquote>\n\n<p>丁寧なソフトウェア、スローウェブムーブメント、とても共感する。\n「全体性を回復する」テクノロジー＝適性テクノロジーなのかもしれない。</p>\n\n<p>#SlowWeb #AppropriateTechnology</p>\n",
+				"content_text": " [Polite Toolbox - Home](https://www.polite.one/)\n\n> The Slow Web movement embodies the idea that we can now use Technology to develop healthy habits and reset our digital life for the better.\nThink of it as the equivalent of \"Organic\" for Technology..\n\n丁寧なソフトウェア、スローウェブムーブメント、とても共感する。\n「全体性を回復する」テクノロジー＝適性テクノロジーなのかもしれない。\n\n#SlowWeb #AppropriateTechnology\n",
+				"date_published": "2020-11-02T23:06:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/11/02/slow-web-movement.html",
+				"tags": ["idea","SDGs"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/11/02/utmf-trailrunning.html",
+				
+				"content_html": "<p>来年のUTMF悩んだ挙句に申し込んでしまった。険しい道のりだがやるしかない。先日コケた痛みもだいぶ治まってきた。また一から鍛え直そうっと。🏃‍♂️⛰ #trailrunning</p>\n\n<p><img src=\"uploads/2020/f63711fc34.jpg\" width=\"600\" height=\"381\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "来年のUTMF悩んだ挙句に申し込んでしまった。険しい道のりだがやるしかない。先日コケた痛みもだいぶ治まってきた。また一から鍛え直そうっと。🏃‍♂️⛰ #trailrunning\n\n<img src=\"uploads/2020/f63711fc34.jpg\" width=\"600\" height=\"381\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-11-02T22:46:25+09:00",
+				"url": "https://micro.tkskkd.com/2020/11/02/utmf-trailrunning.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/11/01/youre-made-of.html",
+				
+				"content_html": "<p>&ldquo;You&rsquo;re made of what you eat and what you think.&rdquo;</p>\n",
+				"content_text": "\"You're made of what you eat and what you think.\" \n",
+				"date_published": "2020-11-01T13:37:58+09:00",
+				"url": "https://micro.tkskkd.com/2020/11/01/youre-made-of.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/31/123334.html",
+				
+				"content_html": "<p>ヤマイモ掘り出し作戦なんとか完了。途中から石がゴロゴロ出てきてどうなることかと思ったが完璧ではないが及第点で掘り出せた。最初はどこからか生えてきた小さな芽だだったのに数年でこんなに深く大きく育つなんて凄い。こいつの子供たちは場所を変えて収穫しやすくまた植える予定。🥔🌱</p>\n\n<p><a href=\"https://micro.tkskkd.com/uploads/2020/a1850f314b.jpg\"><img src=\"uploads/2020/a1850f314b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/ae4ff59e82.jpg\"><img src=\"uploads/2020/ae4ff59e82.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/27334de016.jpg\"><img src=\"uploads/2020/27334de016.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/e87022dfd9.jpg\"><img src=\"uploads/2020/e87022dfd9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "ヤマイモ掘り出し作戦なんとか完了。途中から石がゴロゴロ出てきてどうなることかと思ったが完璧ではないが及第点で掘り出せた。最初はどこからか生えてきた小さな芽だだったのに数年でこんなに深く大きく育つなんて凄い。こいつの子供たちは場所を変えて収穫しやすくまた植える予定。🥔🌱\n\n<a href=\"https://micro.tkskkd.com/uploads/2020/a1850f314b.jpg\"><img src=\"uploads/2020/a1850f314b.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/ae4ff59e82.jpg\"><img src=\"uploads/2020/ae4ff59e82.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/27334de016.jpg\"><img src=\"uploads/2020/27334de016.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/e87022dfd9.jpg\"><img src=\"uploads/2020/e87022dfd9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-10-31T12:33:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/31/123334.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/30/blot-blot-blot.html",
+				
+				"content_html": "<p>Blot</p>\n\n<p>インタフェースがないブログプラットフォーム。斬新だ。。。</p>\n\n<p><a href=\"https://blot.im/\">Blot</a></p>\n\n<blockquote>\n<p>Blot is a blogging platform with no interface. Why a blogging platform with no interface? So you can write with your favorite text-editor.</p>\n</blockquote>\n",
+				"content_text": "Blot\n\nインタフェースがないブログプラットフォーム。斬新だ。。。\n\n[Blot](https://blot.im/)\n\n> Blot is a blogging platform with no interface. Why a blogging platform with no interface? So you can write with your favorite text-editor.\n",
+				"date_published": "2020-10-30T23:12:55+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/30/blot-blot-blot.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/30/fedwikiindieweba-chorus-of.html",
+				
+				"content_html": "<p>あー、FedWikiもIndieWebのムーブメントの一つのなのか。脱中央集権管理。「a chorus of voices 」のメタファいいなぁ。<a href=\"https://en.wikipedia.org/wiki/Smallest_Federated_Wiki\">https://en.wikipedia.org/wiki/Smallest_Federated_Wiki</a></p>\n",
+				"content_text": "あー、FedWikiもIndieWebのムーブメントの一つのなのか。脱中央集権管理。「a chorus of voices 」のメタファいいなぁ。https://en.wikipedia.org/wiki/Smallest_Federated_Wiki\n",
+				"date_published": "2020-10-30T18:46:57+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/30/fedwikiindieweba-chorus-of.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/30/by.html",
+				
+				"content_html": "<p>僕は宮崎駿の「人は土から離れて生きられないのよ（by シータ）」的世界観がベースにあるけどテクノロジーの恩恵も受けて育っているので「世界の全体性を癒す」技術、適正技術（中間技術）という観点での技術が大事じゃないかと思ってる。「世界の調和を取り戻すための技術」を何と呼べばよいか？</p>\n",
+				"content_text": "僕は宮崎駿の「人は土から離れて生きられないのよ（by シータ）」的世界観がベースにあるけどテクノロジーの恩恵も受けて育っているので「世界の全体性を癒す」技術、適正技術（中間技術）という観点での技術が大事じゃないかと思ってる。「世界の調和を取り戻すための技術」を何と呼べばよいか？\n",
+				"date_published": "2020-10-30T18:18:41+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/30/by.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/30/090854.html",
+				"title": "個人の行動と全体性",
+				"content_html": "<p>自分の行動が<strong>全体を癒す</strong>かどうかという観点が常に含まれているかを想像しよう。</p>\n\n<p>この「全体」とはとりあえず現状の文脈で認知している領域の<strong>更に外側</strong>と考えれば良い。</p>\n\n<ul>\n<li>システムを作っているならそれを使う利用者</li>\n<li>利用者を認知していたら利用者のシステムの外の生活</li>\n<li>利用者の生活を認知していたらその人が所属する地域や組織などの周囲の社会</li>\n<li>小さな社会を認知していたら更に大きな社会</li>\n<li>人間社会を越えたバイオリージョン</li>\n</ul>\n\n<p>&hellip;これらのように、全体はいくらでも広がる。</p>\n\n<p>それぞれの文脈の中で<strong>全体</strong>（＝更に外側）を想像し、全てがつながっている世界での<strong>今の自分の行動と全体への意味付け</strong>ができることが重要だ。</p>\n",
+				"content_text": "自分の行動が**全体を癒す**かどうかという観点が常に含まれているかを想像しよう。\n\nこの「全体」とはとりあえず現状の文脈で認知している領域の**更に外側**と考えれば良い。\n\n- システムを作っているならそれを使う利用者\n- 利用者を認知していたら利用者のシステムの外の生活\n- 利用者の生活を認知していたらその人が所属する地域や組織などの周囲の社会\n- 小さな社会を認知していたら更に大きな社会\n- 人間社会を越えたバイオリージョン\n\n...これらのように、全体はいくらでも広がる。\n\nそれぞれの文脈の中で**全体**（＝更に外側）を想像し、全てがつながっている世界での**今の自分の行動と全体への意味付け**ができることが重要だ。\n\n",
+				"date_published": "2020-10-30T09:08:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/30/090854.html",
+				"tags": ["idea"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/30/090249.html",
+				"title": "人の知恵の使い道は何か？",
+				"content_html": "<p>人間は自然を破壊し犠牲にしないと生きていけない存在だと思考停止してはいけない。</p>\n\n<p>たかが数百年で変わってしまっただけで調和をとりながら(時には破壊しながらも)生きてきた時間の方が圧倒的に長い。</p>\n\n<p>ではどうやって？どうにもならないじゃない？と更に思考停止してもいけない。</p>\n\n<p><strong>人間の知恵を全体との調和をとりバランスをとるため</strong>に使えばいい。</p>\n\n<p>知恵は個人の欲望を満たすだけではなく全体との調和を生み出すために使う、これにつきるのでは？</p>\n",
+				"content_text": "人間は自然を破壊し犠牲にしないと生きていけない存在だと思考停止してはいけない。\n\nたかが数百年で変わってしまっただけで調和をとりながら(時には破壊しながらも)生きてきた時間の方が圧倒的に長い。\n\nではどうやって？どうにもならないじゃない？と更に思考停止してもいけない。\n\n**人間の知恵を全体との調和をとりバランスをとるため**に使えばいい。\n\n知恵は個人の欲望を満たすだけではなく全体との調和を生み出すために使う、これにつきるのでは？\n",
+				"date_published": "2020-10-30T09:02:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/30/090249.html",
+				"tags": ["idea"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/29/203656.html",
+				
+				"content_html": "<p>自分の考えや感情が尊重されないということはとても悲しいことだ。100%受け入れてもらう必要はない。ただ「そうなんですね」と受け止めてくれさえばよかったのだ。それがないままことが進むと人は自分自身が受けとめられていないと感じて悲しみが生まれる。</p>\n",
+				"content_text": "自分の考えや感情が尊重されないということはとても悲しいことだ。100%受け入れてもらう必要はない。ただ「そうなんですね」と受け止めてくれさえばよかったのだ。それがないままことが進むと人は自分自身が受けとめられていないと感じて悲しみが生まれる。\n",
+				"date_published": "2020-10-29T20:36:56+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/29/203656.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/29/180740.html",
+				
+				"content_html": "<p>ヤマイモ引き続き掘っているがまだまだ深い。。。先は長いな。🥔</p>\n\n<p><a href=\"https://micro.tkskkd.com/uploads/2020/adb8cc11cc.jpg\"><img src=\"uploads/2020/adb8cc11cc.jpg\" width=\"600\" height=\"772\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/bb346d0a7c.jpg\"><img src=\"uploads/2020/bb346d0a7c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "ヤマイモ引き続き掘っているがまだまだ深い。。。先は長いな。🥔\n\n<a href=\"https://micro.tkskkd.com/uploads/2020/adb8cc11cc.jpg\"><img src=\"uploads/2020/adb8cc11cc.jpg\" width=\"600\" height=\"772\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://micro.tkskkd.com/uploads/2020/bb346d0a7c.jpg\"><img src=\"uploads/2020/bb346d0a7c.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-10-29T18:07:40+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/29/180740.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/29/125821.html",
+				
+				"content_html": "<p>立派に育っていたセグロアシナガバチの巣が今朝見たらなくなっていた。気温が下がって動きが鈍くなってたのでハチがいなくなったら息子と巣の観察しようと思ってたのでとても残念。アシナガバチはおとなしく狩蜂で芋虫系をもりもり食べてくれる庭の益虫なのにイメージで駆除されたりして可愛そう。</p>\n\n<p><img src=\"uploads/2020/b7245f39f9.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "立派に育っていたセグロアシナガバチの巣が今朝見たらなくなっていた。気温が下がって動きが鈍くなってたのでハチがいなくなったら息子と巣の観察しようと思ってたのでとても残念。アシナガバチはおとなしく狩蜂で芋虫系をもりもり食べてくれる庭の益虫なのにイメージで駆除されたりして可愛そう。\n\n<img src=\"uploads/2020/b7245f39f9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2020-10-29T12:58:21+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/29/125821.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/29/113735.html",
+				
+				"content_html": "<p>夜の予定が3日連続で続くと非常に疲れるというか疲れが取れない。スタンディングだというのもあるかもしれないけど。少なくとも22:00には床についてだらっとして7時間は眠りたい。一時的な楽しさや興奮よりも長期的な良い状態の継続を大事にしたい。</p>\n",
+				"content_text": "夜の予定が3日連続で続くと非常に疲れるというか疲れが取れない。スタンディングだというのもあるかもしれないけど。少なくとも22:00には床についてだらっとして7時間は眠りたい。一時的な楽しさや興奮よりも長期的な良い状態の継続を大事にしたい。\n",
+				"date_published": "2020-10-29T11:37:35+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/29/113735.html",
+				"tags": ["life"]
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/29/agileagile.html",
+				
+				"content_html": "<p><a href=\"https://agile459.connpass.com/event/189905/\">Agile459の10周年イベント</a>を11/21に開催します。身の丈にあったシングルトラック・午後開催で参加者との一体感を重視します。基調講演はソニックガーデン倉貫さんにご登壇していただき私と倉貫さん二人の対談もやります！！お気軽に参加してくださいね。#agile459</p>\n",
+				"content_text": "[Agile459の10周年イベント](https://agile459.connpass.com/event/189905/)を11/21に開催します。身の丈にあったシングルトラック・午後開催で参加者との一体感を重視します。基調講演はソニックガーデン倉貫さんにご登壇していただき私と倉貫さん二人の対談もやります！！お気軽に参加してくださいね。#agile459\n\n",
+				"date_published": "2020-10-29T09:19:41+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/29/agileagile.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/28/time-is-money.html",
+				
+				"content_html": "<p>効率化を進めていくと世界が豊かに幸福になるという現代の前提は<strong>Time is Money</strong> の世界観に立脚しているのでそもそもその前提を疑わないと真の解決には至らない、という仮説。</p>\n",
+				"content_text": "効率化を進めていくと世界が豊かに幸福になるという現代の前提は**Time is Money** の世界観に立脚しているのでそもそもその前提を疑わないと真の解決には至らない、という仮説。\n",
+				"date_published": "2020-10-28T12:32:15+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/28/time-is-money.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2020/10/28/095116.html",
+				
+				"content_html": "<p>IndieWebの流れで<a href=\"https://withknown.com/\">Known</a>を触っているがなかなか興味深い。IndieAuthとWebmention組み合わせると分散SNSみたいなイメージなんだろうか。<strong>SNSの分散化</strong>の流れにもみてとれる。昔SCMがSubversionからGit/Mercurial移った移行期を思い起こさせる。でもまだまだこれからなんだろうなー。</p>\n",
+				"content_text": "IndieWebの流れで[Known](https://withknown.com/)を触っているがなかなか興味深い。IndieAuthとWebmention組み合わせると分散SNSみたいなイメージなんだろうか。**SNSの分散化**の流れにもみてとれる。昔SCMがSubversionからGit/Mercurial移った移行期を思い起こさせる。でもまだまだこれからなんだろうなー。\n",
+				"date_published": "2020-10-28T09:51:00+09:00",
+				"url": "https://micro.tkskkd.com/2020/10/28/095116.html",
+				"tags": ["awareness"]
+			},
 			{
 				"id": "http://tkskkd.micro.blog/2020/10/27/124818.html",
 				
