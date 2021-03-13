@@ -7,6 +7,102 @@
 	"items": [
 		
 			{
+				"id": "http://tkskkd.micro.blog/2021/03/14/080116.html",
+				
+				"content_html": "<p>一番身近な自然とは自分の身体なのでまずは自分の身体の生態系を保全するのが重要。何も考えずに過ごしてるだけでは現代社会の中では人の自然はどんどん破壊されて不全に陥るよ。人の自然とは何か？に意識を向けることから始めたい。</p>\n",
+				"content_text": "一番身近な自然とは自分の身体なのでまずは自分の身体の生態系を保全するのが重要。何も考えずに過ごしてるだけでは現代社会の中では人の自然はどんどん破壊されて不全に陥るよ。人の自然とは何か？に意識を向けることから始めたい。\n",
+				"date_published": "2021-03-14T08:01:16+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/14/080116.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/12/132158.html",
+				
+				"content_html": "<p>今日は娘が雨の中で高速教習だそうだ。愛媛の高速は東京と比べて車が少ないから走りやすいとは思うけど、雨はちょっと怖いかもなぁ。宇和島方面行くとアップダウンだったりトンネルだったりカーブが多いから、多分高松方面なんだろうなぁ。</p>\n",
+				"content_text": "今日は娘が雨の中で高速教習だそうだ。愛媛の高速は東京と比べて車が少ないから走りやすいとは思うけど、雨はちょっと怖いかもなぁ。宇和島方面行くとアップダウンだったりトンネルだったりカーブが多いから、多分高松方面なんだろうなぁ。\n",
+				"date_published": "2021-03-12T13:21:58+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/12/132158.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/12/102315.html",
+				
+				"content_html": "<p>neovim にelectronのUIをつけたのがoni、electronからReveryというReactベースのcross platform dev環境で作ったのがoni2で、vscodeのプラグインも使えるそう。なんだかすごい。<a href=\"https://v2.onivim.io/\">v2.onivim.io</a></p>\n",
+				"content_text": "neovim にelectronのUIをつけたのがoni、electronからReveryというReactベースのcross platform dev環境で作ったのがoni2で、vscodeのプラグインも使えるそう。なんだかすごい。[v2.onivim.io](https://v2.onivim.io/)\n",
+				"date_published": "2021-03-12T10:23:15+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/12/102315.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/11/gwperson-finder.html",
+				
+				"content_html": "<p>3.11はすでに愛媛に引っ越したあとだったので苦労はしてない。その年のGWに陸前高田にボランティアに行ったのと、従姉妹が気仙沼で行方不明になりperson finderで探しまくった（無事だった）。陸前高田の街がひと月前に原爆資料館でみた広島の街と同じと感じたのを思い出す。</p>\n",
+				"content_text": "3.11はすでに愛媛に引っ越したあとだったので苦労はしてない。その年のGWに陸前高田にボランティアに行ったのと、従姉妹が気仙沼で行方不明になりperson finderで探しまくった（無事だった）。陸前高田の街がひと月前に原爆資料館でみた広島の街と同じと感じたのを思い出す。\n",
+				"date_published": "2021-03-11T15:51:23+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/11/gwperson-finder.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/11/macosxbig-surlinuxicloudlinux.html",
+				
+				"content_html": "<p>MacOSXはBig Surになって色々トラブル多いので真面目にLinuxに移行を考えようかな。iCloud経由でシームレスに端末変えても使えるあの感覚だけ再現できればなんとかなる気がしている。まぁLinuxに移行するとトラブルは日常茶飯事になって慣れてしまうのかもしれないけど。</p>\n",
+				"content_text": "MacOSXはBig Surになって色々トラブル多いので真面目にLinuxに移行を考えようかな。iCloud経由でシームレスに端末変えても使えるあの感覚だけ再現できればなんとかなる気がしている。まぁLinuxに移行するとトラブルは日常茶飯事になって慣れてしまうのかもしれないけど。\n",
+				"date_published": "2021-03-11T15:36:36+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/11/macosxbig-surlinuxicloudlinux.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/11/081609.html",
+				
+				"content_html": "<p>ちょっと忙しいのだが季節や野菜は待ってくれないので畑に出かけることにしよう。自然は人の都合では動いてくれないので、人が自然の都合に合わせて行動しないといけない。人間の都合に物事を合わせようという試みはある程度はいいけど、最終的にはロクな結果にならなそう。自然の摂理に従おう。</p>\n",
+				"content_text": "ちょっと忙しいのだが季節や野菜は待ってくれないので畑に出かけることにしよう。自然は人の都合では動いてくれないので、人が自然の都合に合わせて行動しないといけない。人間の都合に物事を合わせようという試みはある程度はいいけど、最終的にはロクな結果にならなそう。自然の摂理に従おう。\n",
+				"date_published": "2021-03-11T08:16:09+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/11/081609.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/11/080625.html",
+				
+				"content_html": "<p>娘の同級生達も進路が大体見えてきたみたい。希望通りに行ける子、残念だった子などいろいろだが、驚くべきは「自分が将来やりたいこと」という目的から逆算して進路を決めてる子が多いということ。ドリームハラスメントで押し付けられているのではない内発的動機からのビジョンがあり素晴らしい。</p>\n",
+				"content_text": "娘の同級生達も進路が大体見えてきたみたい。希望通りに行ける子、残念だった子などいろいろだが、驚くべきは「自分が将来やりたいこと」という目的から逆算して進路を決めてる子が多いということ。ドリームハラスメントで押し付けられているのではない内発的動機からのビジョンがあり素晴らしい。\n",
+				"date_published": "2021-03-11T08:06:25+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/11/080625.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/10/225020.html",
+				
+				"content_html": "<p>呟く暇がないほどハマっておった。とはいえ山は超えたかな？</p>\n",
+				"content_text": "呟く暇がないほどハマっておった。とはいえ山は超えたかな？\n",
+				"date_published": "2021-03-10T22:50:20+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/10/225020.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/09/httpswwwyomiuricojppoliticsoytt.html",
+				
+				"content_html": "<p>15年ほど前、マイ箸と風呂敷持ち歩いていたの思い出した。マイスプーンってもうキャンプ道具あれば良いのでは。<a href=\"https://www.yomiuri.co.jp/politics/20210309-OYT1T50145/\">www.yomiuri.co.jp/politics/&hellip;</a></p>\n",
+				"content_text": "15年ほど前、マイ箸と風呂敷持ち歩いていたの思い出した。マイスプーンってもうキャンプ道具あれば良いのでは。[www.yomiuri.co.jp/politics/...](https://www.yomiuri.co.jp/politics/20210309-OYT1T50145/)\n",
+				"date_published": "2021-03-09T14:42:54+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/09/httpswwwyomiuricojppoliticsoytt.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/09/httpsbitlyvzbe.html",
+				
+				"content_html": "<p>『インナーゲーム』の話が出たので、以前それを取り上げた「学びの研究」のスライドを紹介したけど、今みるとスライドだけだとわからないかもなぁ。話がないとダメだね。結構頑張って作ったからもう一度話して動画にしてみようかなぁ？ <a href=\"https://bit.ly/3v3zb1E\">bit.ly/3v3zb1E</a></p>\n",
+				"content_text": "『インナーゲーム』の話が出たので、以前それを取り上げた「学びの研究」のスライドを紹介したけど、今みるとスライドだけだとわからないかもなぁ。話がないとダメだね。結構頑張って作ったからもう一度話して動画にしてみようかなぁ？ [bit.ly/3v3zb1E](https://bit.ly/3v3zb1E)\n",
+				"date_published": "2021-03-09T08:11:41+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/09/httpsbitlyvzbe.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/08/freeefreee.html",
+				
+				"content_html": "<p>freeeで電子請求書を送った後に原本送ってくれって言われるのだけど原本がそもそも電子だと紙ってわざわざ出力するものなので意味が違うんだよなぁ。しかもfreeeの請求書をカラーで印刷したら印鑑の横が黒くなっちゃうので印鑑薄くして再度印刷しなおして改めて印鑑を押すってムダすぎ</p>\n",
+				"content_text": "freeeで電子請求書を送った後に原本送ってくれって言われるのだけど原本がそもそも電子だと紙ってわざわざ出力するものなので意味が違うんだよなぁ。しかもfreeeの請求書をカラーで印刷したら印鑑の横が黒くなっちゃうので印鑑薄くして再度印刷しなおして改めて印鑑を押すってムダすぎ\n",
+				"date_published": "2021-03-08T14:36:10+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/08/freeefreee.html"
+			},
+			{
+				"id": "http://tkskkd.micro.blog/2021/03/08/105543.html",
+				
+				"content_html": "<p>今更ながら『バムケロ』シリーズで買い残していたのに気がついて末子は小学校5年生なんだけど最後の一冊を買った。最初の一冊は長男が生まれた頃（　2006年）に買ってたらしい。バムケロは読み聞かせするのに文字情報が適度だし必ず眠りに落ちるシーンがあるので寝る前にオススメ。</p>\n",
+				"content_text": "今更ながら『バムケロ』シリーズで買い残していたのに気がついて末子は小学校5年生なんだけど最後の一冊を買った。最初の一冊は長男が生まれた頃（　2006年）に買ってたらしい。バムケロは読み聞かせするのに文字情報が適度だし必ず眠りに落ちるシーンがあるので寝る前にオススメ。\n",
+				"date_published": "2021-03-08T10:55:43+09:00",
+				"url": "https://micro.tkskkd.com/2021/03/08/105543.html"
+			},
+			{
 				"id": "http://tkskkd.micro.blog/2021/03/06/220141.html",
 				
 				"content_html": "<p>次男が、自分の生まれる前にやってたディケイドのライダー対戦の映画見て楽しんでた。もう11年前なのだねぇ。</p>\n",
